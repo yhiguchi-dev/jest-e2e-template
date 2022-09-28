@@ -16,15 +16,15 @@
     "fix:prettier": "prettier --write --ignore-path .gitignore '{**/*,*}.{js,ts,jsx,tsx}'"
   },
   "devDependencies": {
-    "@types/jest": "^29.0.3",
-    "eslint": "^8.0.1",
-    "eslint-config-prettier": "^8.5.0",
-    "eslint-config-standard": "^17.0.0",
-    "eslint-plugin-import": "^2.25.2",
-    "eslint-plugin-n": "^15.0.0",
-    "eslint-plugin-promise": "^6.0.0",
-    "eslint-plugin-unused-imports": "^2.0.0",
-    "jest": "^29.0.3",
-    "prettier": "^2.7.1"
+    "@types/jest": "29.0.3",
+    "eslint": "8.24.0",
+    "eslint-config-prettier": "8.5.0",
+    "eslint-config-standard": "17.0.0",
+    "eslint-plugin-import": "2.26.0",
+    "eslint-plugin-n": "15.3.0",
+    "eslint-plugin-promise": "6.0.1",
+    "eslint-plugin-unused-imports": "2.0.0",
+    "jest": "29.1.1",
+    "prettier": "2.7.1"
   }
 }
