@@ -8,10 +8,10 @@
   },
   "scripts": {
     "test": "NODE_OPTIONS=--experimental-vm-modules jest",
-    "lint": "pnpm run lint:eslint && pnpm run lint:prettier",
+    "lint": "pnpm lint:eslint && pnpm lint:prettier",
     "lint:eslint": "eslint --ignore-path .gitignore '{**/*,*}.{js,ts,jsx,tsx,html,vue}'",
     "lint:prettier": "prettier --check --ignore-path .gitignore '{**/*,*}.{js,ts,jsx,tsx}'",
-    "fix": "pnpm run fix:eslint && pnpm run fix:prettier",
+    "fix": "pnpm fix:eslint && pnpm fix:prettier",
     "fix:eslint": "eslint --fix --ignore-path .gitignore '{**/*,*}.{js,ts,jsx,tsx,html,vue}'",
     "fix:prettier": "prettier --write --ignore-path .gitignore '{**/*,*}.{js,ts,jsx,tsx}'"
   },
