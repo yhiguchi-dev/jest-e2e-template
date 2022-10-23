@@ -7,7 +7,7 @@ specifiers:
   eslint-config-standard: 17.0.0
   eslint-plugin-import: 2.26.0
   eslint-plugin-n: 15.3.0
-  eslint-plugin-promise: 6.1.0
+  eslint-plugin-promise: 6.1.1
   eslint-plugin-unused-imports: 2.0.0
   jest: 29.2.0
   prettier: 2.7.1
@@ -16,10 +16,10 @@ devDependencies:
   '@types/jest': 29.1.2
   eslint: 8.26.0
   eslint-config-prettier: 8.5.0_eslint@8.26.0
-  eslint-config-standard: 17.0.0_rn2s3vvdmui6leukibgdep4oe4
+  eslint-config-standard: 17.0.0_43wwz2xsig5yhgcv2rleettsby
   eslint-plugin-import: 2.26.0_eslint@8.26.0
   eslint-plugin-n: 15.3.0_eslint@8.26.0
-  eslint-plugin-promise: 6.1.0_eslint@8.26.0
+  eslint-plugin-promise: 6.1.1_eslint@8.26.0
   eslint-plugin-unused-imports: 2.0.0_eslint@8.26.0
   jest: 29.2.0
   prettier: 2.7.1
@@ -1297,7 +1297,7 @@ packages:
       eslint: 8.26.0
     dev: true
 
-  /eslint-config-standard/17.0.0_rn2s3vvdmui6leukibgdep4oe4:
+  /eslint-config-standard/17.0.0_43wwz2xsig5yhgcv2rleettsby:
     resolution: {integrity: sha512-/2ks1GKyqSOkH7JFvXJicu0iMpoojkwB+f5Du/1SC0PtBL+s8v30k9njRZ21pm2drKYm2342jFnGWzttxPmZVg==}
     peerDependencies:
       eslint: ^8.0.1
@@ -1308,7 +1308,7 @@ packages:
       eslint: 8.26.0
       eslint-plugin-import: 2.26.0_eslint@8.26.0
       eslint-plugin-n: 15.3.0_eslint@8.26.0
-      eslint-plugin-promise: 6.1.0_eslint@8.26.0
+      eslint-plugin-promise: 6.1.1_eslint@8.26.0
     dev: true
 
   /eslint-import-resolver-node/0.3.6:
@@ -1406,8 +1406,8 @@ packages:
       semver: 7.3.7
     dev: true
 
-  /eslint-plugin-promise/6.1.0_eslint@8.26.0:
-    resolution: {integrity: sha512-NYCfDZF/KHt27p06nFAttgWuFyIDSUMnNaJBIY1FY9GpBFhdT2vMG64HlFguSgcJeyM5by6Yr5csSOuJm60eXQ==}
+  /eslint-plugin-promise/6.1.1_eslint@8.26.0:
+    resolution: {integrity: sha512-tjqWDwVZQo7UIPMeDReOpUgHCmCiH+ePnVT+5zVapL0uuHnegBUs2smM13CzOs2Xb5+MHMRFTs9v24yjba4Oig==}
     engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
     peerDependencies:
       eslint: ^7.0.0 || ^8.0.0
