@@ -16,7 +16,7 @@
     "fix:prettier": "prettier --write --ignore-path .gitignore '{**/*,*}.{js,ts,jsx,tsx}'"
   },
   "devDependencies": {
-    "@types/jest": "29.2.5",
+    "@types/jest": "29.2.6",
     "eslint": "8.32.0",
     "eslint-config-prettier": "8.6.0",
     "eslint-config-standard": "17.0.0",
